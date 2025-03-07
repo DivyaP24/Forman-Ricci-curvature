@@ -12,5 +12,6 @@ Most notably:
 (S3G, S2I)  ->  4.0
 
 (S3H, S2I)  ->  1.0
+
 ![image](https://github.com/user-attachments/assets/9c25317b-6de9-4139-8ca2-456c6f426d3f)
 
